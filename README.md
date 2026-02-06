@@ -1,2 +1,5 @@
-# data-science-and-analytics-projects-
-Data science and business analytics projects using Python and SQL
+Hi, I’m Nishi 👋
+
+🎓 Data Science & Business Analytics student  
+📊 SQL | Python | Power BI | Tableau  
+🧠 Turning raw data into clear business insights
